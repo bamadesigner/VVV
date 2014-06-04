@@ -1,5 +1,7 @@
 # Varying Vagrant Vagrants
 
+[USE THIS WALKTHROUGH TO CREATE NEW SITES](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Auto-site-Setup)
+
 Varying Vagrant Vagrants is an evolving [Vagrant](http://vagrantup.com) configuration focused on [WordPress](http://wordpress.org) development.
 
 VVV is a [10up](http://10up.com) creation and [transitioned](http://10up.com/blog/varying-vagrant-vagrants-future/) to a community organization in 2014.
