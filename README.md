@@ -1,6 +1,7 @@
 # Varying Vagrant Vagrants
 
-[USE THIS WALKTHROUGH TO CREATE NEW SITES](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Auto-site-Setup)
+* [Available VVV Documents](https://github.com/varying-vagrant-vagrants/vvv/wiki)
+* [USE THIS WALKTHROUGH TO CREATE NEW SITES](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Auto-site-Setup)
 
 Varying Vagrant Vagrants is an evolving [Vagrant](http://vagrantup.com) configuration focused on [WordPress](http://wordpress.org) development.
 
